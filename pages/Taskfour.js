@@ -1,10 +1,11 @@
 import Navbar from './components/Navbar'
+import Image from 'next/image'
 function Taskfour() {
     return (
         <div>
             <br/><br/>
             
-            <img src="vercel.svg"></img>
+            <Image src="/vercel.svg" height={200} width={200}/>
             <center><h1> Rishabh's Vercel Assignment</h1> </center>
             <Navbar />
             <h2>Practice Email Responses</h2>

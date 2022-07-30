@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       
       <br/><br/>
-      <img src="vercel.svg"></img>
+      <Image src="/vercel.svg" height={200} width={200}/>
       <center><h1> Rishabh's Vercel Assignment</h1> </center>
       <Navbar />
 
@@ -16,9 +16,6 @@ export default function Home() {
         <li>To view each of the tasks created, please click on the respective tasks on the navbar.</li><br/>
         <li>Once you hover over a specific task, the background properties will change indicating that that particular task has been selected.</li>
       </ul>
-
-      {/* <p>To view each of the tasks created, please click on the respective tasks on the navbar.<br/> 
-        Once you hover over a specific task, the background properties will change indicating that that particular task has been selected.</p> */}
       
     </div>
   )
