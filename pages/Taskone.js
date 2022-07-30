@@ -6,7 +6,7 @@ function Taskone() {
             <br/><br/>
             
             <Image src="/vercel.svg" height={200} width={200}/>
-            <center><h1> Rishabh's Vercel Assignment</h1> </center>
+            <center><h1> Rishabh Vercel Assignment</h1> </center>
             <Navbar />
             <h2>Things a Product Advocate might do</h2><br></br>
             <h3>Most Interested</h3>

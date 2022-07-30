@@ -6,7 +6,7 @@ function Taskfour() {
             <br/><br/>
             
             <Image src="/vercel.svg" height={200} width={200}/>
-            <center><h1> Rishabh's Vercel Assignment</h1> </center>
+            <center><h1> Rishabh Vercel Assignment</h1> </center>
             <Navbar />
             <h2>Practice Email Responses</h2>
             <h3>Sales Inquiry: Do I need Enterprise?</h3>

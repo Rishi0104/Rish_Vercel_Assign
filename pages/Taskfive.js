@@ -6,7 +6,7 @@ function Taskfive() {
             <br/><br/>
             
             <Image src="/vercel.svg" height={200} width={200}/>
-            <center><h1> Rishabh's Vercel Assignment</h1> </center>
+            <center><h1> Rishabh Vercel Assignment</h1> </center>
             <Navbar />
             <h2>Your personal recommendations:</h2>
             <h3>When it comes to looking for a solution for hosting your Next.js site, what are some of the common things

@@ -9,7 +9,7 @@ export default function Home() {
       
       <br/><br/>
       <Image src="/vercel.svg" height={200} width={200}/>
-      <center><h1> Rishabh's Vercel Assignment</h1> </center>
+      <center><h1> Rishabh Vercel Assignment</h1> </center>
       <Navbar />
 
       <ul>
