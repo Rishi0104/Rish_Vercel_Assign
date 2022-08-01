@@ -10,7 +10,7 @@ function Taskthree() {
             <Navbar />
             <h2>Using Next.js</h2>
             <h3>Add a temporary redirect to your Next/Vercel project</h3>
-            <p> Link </p>
+            <p> The temporary redirect has been routed to Homepage. If a user enters a wrong url, the sites shows error 404 page and within 3 seconds it routes the user back to the Homepage automatically.</p>
         </div>
     );
 }

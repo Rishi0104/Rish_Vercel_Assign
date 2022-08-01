@@ -10,13 +10,14 @@ h1{
 }
 div{
   margin-left: 20px;
+  margin-right: 20px;
 }
 a {
   color: #333;
   text-decoration: none;
 }
 .content {
-  max-width: 960px;
+  max-width: 800px;
   margin: 0 auto;
 }
 nav {
@@ -29,7 +30,6 @@ nav {
 }
 nav a {
   margin-left: 12px;
-  color: olive;
 }
 nav .logo {
   margin-right: auto;
